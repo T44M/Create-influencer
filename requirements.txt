@@ -1,0 +1,7 @@
+lxml==4.6.2
+tweepy==3.10.0
+requests==2.25.1
+selenium==3.141.0
+InstaPy==0.6.7
+FireFox
+geckodriver
